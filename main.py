@@ -1,4 +1,5 @@
 def main():
+  # empty list to store all the employee
   employees = []
 
   while True:
